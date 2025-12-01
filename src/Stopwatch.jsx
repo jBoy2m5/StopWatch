@@ -52,7 +52,7 @@ function Stopwatch() {
 
     function changeText() {
         if (isRun) {
-            return "Stop";
+            return "Stop ";
         } else {
             return "Start";
         }
